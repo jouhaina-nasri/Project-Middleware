@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./RPC/rfoo-1.3.0"
+    ]
+}
